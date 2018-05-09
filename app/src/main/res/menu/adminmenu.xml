@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuAllRepairs"
+        android:title="Wszystkie naprawy" />
+
+    <item
+        android:id="@+id/menuUserRepairs"
+        android:title="Moje naprawy" />
+
+    <item
+        android:id="@+id/menuSettings"
+        android:title="Ustawienia" />
+
+    <item
+        android:id="@+id/menuLogout"
+        android:title="Wyloguj" />
+
+    <item
+        android:id="@+id/menuExit"
+        android:title="Wyjście" />
+
+</menu>
